@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Milan 🚀  
-### 💻 B.Tech Computer Science Engineering Student  
+### 💻 DIPLOMA Computer Science Engineering Student  
 
 🔹 Passionate about **technology, problem-solving, and innovation**  
 🔹 Strong foundation in **Computer Science Fundamentals**  
@@ -8,13 +8,11 @@
 ---
 
 ## 🎓 Education
-- 🎓 **B.Tech in Computer Science Engineering** (Currently Pursuing)  
-- 🎓 **Diploma in Computer Science Engineering**
-
+- 🎓 **Diploma in Computer Science Engineering**(Currently Pursuing)
 ---
 
 ## 👨‍💻 About Me
-- 🔭 I’m currently studying **B.Tech CSE**
+- 🔭 I’m currently studying **DIPLOMA IN CSE**
 - 🤝 Looking to collaborate with **Big Tech Companies** like **Google, Meta, Amazon , etc.**
 - 🌱 Currently learning **AI & Machine Learning using Python**
 - 🧠 Strong knowledge of **Computer Fundamentals, Hardware & Networking**
