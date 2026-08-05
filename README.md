@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Milan 🚀  
+# 👋 Hi, I'm LALAN KUMAR MANDAL 🚀  
 ### 💻 B.TECH Computer Science Engineering - AI ML Student  
 
 🔹 Passionate about **technology, problem-solving, and innovation**  
