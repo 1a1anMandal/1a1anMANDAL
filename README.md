@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Milan 🚀  
-### 💻 DIPLOMA Computer Science Engineering Student  
+### 💻 B.TECH Computer Science Engineering - AI ML Student  
 
 🔹 Passionate about **technology, problem-solving, and innovation**  
 🔹 Strong foundation in **Computer Science Fundamentals**  
