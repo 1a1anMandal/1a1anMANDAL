@@ -8,11 +8,11 @@
 ---
 
 ## 🎓 Education
-- 🎓 **Diploma in Computer Science Engineering**(Currently Pursuing)
----
+- 🎓 **B.TECH with AI ML** (Currently Pursuing)
+ **Diploma in Computer Science Engineering**---
 
 ## 👨‍💻 About Me
-- 🔭 I’m currently studying **DIPLOMA IN CSE**
+- 🔭 I’m currently studying **B.TECH IN AI ML CSE**
 - 🤝 Looking to collaborate with **Big Tech Companies** like **Google, Meta, Amazon , etc.**
 - 🌱 Currently learning **AI & Machine Learning using Python**
 - 🧠 Strong knowledge of **Computer Fundamentals, Hardware & Networking**
